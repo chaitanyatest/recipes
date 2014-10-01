@@ -10,7 +10,7 @@ color: yellow
 
 ## Ingredients
 - Shell
-- Real meat product
+- Chicken
 - Simulated corn
 - Artisanal augula
 - Salsa
